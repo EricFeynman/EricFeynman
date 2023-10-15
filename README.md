@@ -24,17 +24,3 @@
 <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/WebStorm.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/Jupyter.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/gitkraken.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/figma.svg" alt="figma" width="30" height="40"/> </a> 
-</p>
-
-
-
-- [IGN: PlayStation 5 Slim поддерживает установку дополнительного SSD М.2 до 8 ТБ](https://habr.com/ru/news/767348/?utm_campaign=767348&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft завершила поддержку Windows 11 версии 21H2](https://habr.com/ru/news/767132/?utm_campaign=767132&utm_source=habrahabr&utm_medium=rss)
-- [Adobe представила логотип для маркировки контента, созданного или отредактированного с помощью ИИ](https://habr.com/ru/news/767128/?utm_campaign=767128&utm_source=habrahabr&utm_medium=rss)
-- [Китайская компания Onexplayer представила компактный ноутбук-трансформер One-Netbook 5](https://habr.com/ru/news/767122/?utm_campaign=767122&utm_source=habrahabr&utm_medium=rss)
-<!-- BLOG-POST-LIST:END -->  
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricFeynman&layout=compact)](https://github.com/EricFeynman/github-readme-stats)
