@@ -35,3 +35,6 @@
 - [Adobe представила логотип для маркировки контента, созданного или отредактированного с помощью ИИ](https://habr.com/ru/news/767128/?utm_campaign=767128&utm_source=habrahabr&utm_medium=rss)
 - [Китайская компания Onexplayer представила компактный ноутбук-трансформер One-Netbook 5](https://habr.com/ru/news/767122/?utm_campaign=767122&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricFeynman&layout=compact)](https://github.com/EricFeynman/github-readme-stats)
