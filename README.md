@@ -5,7 +5,6 @@
 <tr>
 <td>
 
-![cool gif](cool.gif) 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ericfeynman&" alt="ericfeynman" /></p>
 </td>
 </tr>
