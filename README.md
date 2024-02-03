@@ -1,21 +1,16 @@
 <!-- based on  https://github.com/rahuldkjain/github-profile-readme-generator -->
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">Computer science student</h3>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EricFeynman" alt="EricFeynman" /></a> </p>
-
 <table>
 <tr>
 <td>
 
-![cool gif](cool.gif) </td>
-<td><img src="https://komarev.com/ghpvc/?username=kik0s&label=Profile%20views&color=0e75b6&style=flat" alt="EricFeynman"/> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EricFeynman&" alt="EricFeynman" /></p>
+![cool gif](cool.gif) 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ericfeynman&" alt="ericfeynman" /></p>
 </td>
 </tr>
 </table>
 
-| Languages | AI/ML | Devops | Other |
-| --- | --- | --- |
+| Languages | AI/ML | Devops | Other
+| --- | --- | --- | --- |
 | <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>| <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>| <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> </p>| <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericfeynman&show_icons=true&locale=en&layout=compact" alt="ericfeynman" /></p>
