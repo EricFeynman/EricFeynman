@@ -1,14 +1,6 @@
 <!-- based on  https://github.com/rahuldkjain/github-profile-readme-generator -->
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">Computer science student</h3>
-<table>
-<tr>
-<td>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ericfeynman&" alt="ericfeynman" /></p>
-</td>
-</tr>
-</table>
 
 - 🚀 Software engineer
 
