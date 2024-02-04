@@ -4,6 +4,8 @@
 
 - 🚀 Software engineer
 
+- ⚡ BSc in Computer Engineering and Software
+
 - 🌱 BSc in Applied Mathematics and Informatics, **MSU**.
 
 | Languages | AI/ML | Devops | Other
